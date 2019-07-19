@@ -1,1 +1,1 @@
-# This code compares two number
+# This code compares two numbers
